@@ -21,4 +21,14 @@
   <a href = "mailto:lalala.bohm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-bohm-77b538288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  ##
+  
 </div>
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📚 ** Computer Science**\
+📆 2023 - 2026\
+📍 **IDP** - Brasilia, Brazil
