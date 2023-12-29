@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @lalabohm
+<h1 align='center'>
+  Hi there 👋 I'm Larissa 👩‍💻
+</h1>
+
 - 💻 I'm studying computer science 
 - 🌱 I’m currently learning Typescript
+- 
+##
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lalabohm&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 ##
 <div style="display: inline_block"><br>
@@ -21,6 +30,12 @@
   <a href = "mailto:lalala.bohm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-bohm-77b538288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  ##
+  
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
   ##
   
 </div>
