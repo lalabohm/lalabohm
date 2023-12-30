@@ -4,7 +4,6 @@
 
 - 💻 I'm studying computer science 
 - 🌱 I’m currently learning Typescript
-- 
 ##
 
 <p align='center'>
