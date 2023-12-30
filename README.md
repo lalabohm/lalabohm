@@ -31,12 +31,6 @@
   
   ##
   
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-  ##
-  
 </div>
 <details>
   <summary>📃 Resume</summary>
