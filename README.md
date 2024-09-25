@@ -1,11 +1,10 @@
 <h1 align='center'>
   Olá 👋 Bem vindo! 👩‍💻
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Larissa+Bohm;E+estou+cursando+Ciencia+da+Computação)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+##
 
 <p align='center'>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalabohm&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
