@@ -2,6 +2,8 @@
   Olá 👋 Bem vindo! 👩‍💻
 </h1>
 
+<img src="https://media.giphy.com/media/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Descrição do GIF" width="500"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Larissa+Bohm;E+estou+cursando+Ciencia+da+Computação)](https://git.io/typing-svg)
 
 ##
