@@ -1,11 +1,7 @@
-<h1 align='center'>
-  Olá 👋 Bem vindo! 👩‍💻
-</h1>
-
+<h2> Oi, Meu nome é Larissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZ3hlMXJ5cml5NGM1bGNrbDNzZWgxbGwzejQzYTZobHF5YThvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGipFVRQMxU3SQywoY/giphy.gif" width="230">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Larissa+Bohm;Tenho+19+anos;E+estou+cursando+Ciência+da+Computação)](https://git.io/typing-svg)
-
+<p><em>Estudante de Ciência da Computação no <a href="https://www.idp.edu.br/">IDP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 ##
 
 <p align='center'>
