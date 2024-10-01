@@ -1,8 +1,7 @@
 <h2> Oi, Meu nome é Larissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZ3hlMXJ5cml5NGM1bGNrbDNzZWgxbGwzejQzYTZobHF5YThvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGipFVRQMxU3SQywoY/giphy.gif" width="230">
-<p><em>Estudante de Ciência da Computação no <a href="https://www.idp.edu.br/">IDP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Estudante de Ciência da Computação no <a href="https://www.idp.edu.br/">IDP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-##
 
 <p align='center'>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalabohm&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
