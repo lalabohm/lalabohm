@@ -2,6 +2,8 @@
   Olá 👋 Bem vindo! 👩‍💻
 </h1>
 
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZ3hlMXJ5cml5NGM1bGNrbDNzZWgxbGwzejQzYTZobHF5YThvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGipFVRQMxU3SQywoY/giphy.gif" width="230">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Larissa+Bohm;Tenho+19+anos;E+estou+cursando+Ciência+da+Computação)](https://git.io/typing-svg)
 
 ##
