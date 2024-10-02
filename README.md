@@ -1,6 +1,6 @@
 <h2> Oi, Meu nome é Larissa! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhdWU1d2g3eHluMG53MWM5bjlvdTZscmpnZjQyNDJ4azJ4NGllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uAiIvb5iBQxcQ0SYON/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZ3hlMXJ5cml5NGM1bGNrbDNzZWgxbGwzejQzYTZobHF5YThvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGipFVRQMxU3SQywoY/giphy.gif" width="230">
-<p><em>Estudante de Ciência da Computação no <a href="https://www.idp.edu.br/">IDP</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVycDU4MzA0a3NndjE5NHdsNjdjbHc3NGFzZDJtYXJhYnN6ejMxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mA6e9iI16uWc6uCXQl/giphy.gif" width="50">
+<p><em>Sou estudante de Ciência da Computação no <a href="https://www.idp.edu.br/">IDP</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVycDU4MzA0a3NndjE5NHdsNjdjbHc3NGFzZDJtYXJhYnN6ejMxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mA6e9iI16uWc6uCXQl/giphy.gif" width="50">
 </em></p>
 
 <p align='center'>
