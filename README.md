@@ -11,7 +11,7 @@ Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetu
 
 ## Áreas de Pesquisa e Interesse
 
-### 🤖 IA & Segurança (AISEC)
+### IA & Segurança (AISEC)
 Minha pesquisa atual foca na segurança de ecossistemas de agentes:
 - Vulnerabilidades em frameworks de agentes (MCP).
 - Defesa e ataque contra Injeção de Prompt Direta e Indireta.
@@ -31,11 +31,11 @@ Tenho forte base em sistemas, o que me ajuda a entender a segurança na raiz:
 - **IA:** Integração com LLMs, Prompt Engineering, MCP Frameworks.
 - **Outros:** Modelagem e Impressão 3D.
 
-## 📊 Estatísticas e Atividades
+## Estatísticas e Atividades
 
 ![Estatísticas do GitHub de Larissa](https://github-readme-stats.vercel.app/api?username=lalabohm&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lalabohm&layout=compact&theme=radical)
 
-## 📫 Vamos nos conectar?
+## Vamos nos conectar?
 
-- [LinkedIn](https://linkedin.com/in/larissa-böhm-77b538288/) - [E-mail](mailto:larissabohmaraujo@gmail.com) ---
+- [LinkedIn](https://linkedin.com/in/larissa-böhm-77b538288/) - [E-mail](mailto:larissabohmaraujo@gmail.com) 
