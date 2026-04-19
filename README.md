@@ -33,8 +33,8 @@ Tenho forte base em sistemas, o que me ajuda a entender a segurança na raiz:
 
 ## 📊 Estatísticas e Atividades
 
-![Estatísticas do GitHub de Larissa](https://github-readme-stats.vercel.app/api?username=larissabohm&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=larissabohm&layout=compact&theme=radical)
+![Estatísticas do GitHub de Larissa](https://github-readme-stats.vercel.app/api?username=lalabohm&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lalabohm&layout=compact&theme=radical)
 
 ## 📫 Vamos nos conectar?
 
