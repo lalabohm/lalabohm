@@ -1,4 +1,4 @@
-<h2> Oi, Meu nome é Larissa! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhdWU1d2g3eHluMG53MWM5bjlvdTZscmpnZjQyNDJ4azJ4NGllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uAiIvb5iBQxcQ0SYON/giphy.gif" width="50"></h2>
+<h2> Oie, Meu nome é Larissa! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhdWU1d2g3eHluMG53MWM5bjlvdTZscmpnZjQyNDJ4azJ4NGllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uAiIvb5iBQxcQ0SYON/giphy.gif" width="50"></h2>
 
 ## Sobre Mim
 
