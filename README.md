@@ -7,7 +7,7 @@ Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetu
 - Graduanda em Ciência da Computação.
 - Foco em **Red Teaming** e **CTFs**.
 - Pesquisando segurança no **Model Context Protocol (MCP)**, explorando riscos de *prompt injection* e *tool poisoning*.
-- Entusiasta de Linux Kernel, manipulação de binários e exploração de SUID.
+
 
 ## Áreas de Pesquisa e Interesse
 
@@ -16,12 +16,6 @@ Minha pesquisa atual foca na segurança de ecossistemas de agentes:
 - Vulnerabilidades em frameworks de agentes (MCP).
 - Defesa e ataque contra Injeção de Prompt Direta e Indireta.
 - Governança e arquitetura segura para modelos de linguagem.
-
-### Low-Level & Offensive Security
-Tenho forte base em sistemas, o que me ajuda a entender a segurança na raiz:
-- Programação em **C** e **x86-64 Assembly**.
-- Exploração de binários e depuração com **GDB/GEF**.
-- Testes de penetração em aplicações web (SQLi, XSS, SSRF).
 
 ## Tecnologias e Ferramentas
 
