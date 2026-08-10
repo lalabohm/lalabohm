@@ -2,20 +2,7 @@
 
 ## Sobre Mim
 
-Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetura de Sistemas**, com um foco crescente na **Segurança de IA**. Acredito que a segurança do futuro reside na compreensão de como modelos de linguagem interagem com o mundo real.
-
-- Graduanda em Ciência da Computação.
-- Foco em **Red Teaming** e **CTFs**.
-- Pesquisando segurança no **Model Context Protocol (MCP)**, explorando riscos de *prompt injection* e *tool poisoning*.
-
-
-## Áreas de Pesquisa e Interesse
-
-### IA & Segurança (AISEC)
-Minha pesquisa atual foca na segurança de ecossistemas de agentes:
-- Vulnerabilidades em frameworks de agentes (MCP).
-- Defesa e ataque contra Injeção de Prompt Direta e Indireta.
-- Governança e arquitetura segura para modelos de linguagem.
+Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetura de Sistemas**, com um foco crescente na **Segurança de IA**.
 
 ## Tecnologias e Ferramentas
 
