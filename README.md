@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetura de Sistemas**, com um foco crescente na **Segurança de IA**.
+Atualmente, dedico meus estudos à **Cibersegurança** e à **Arquitetura de Sistemas**, com um foco crescente na **Segurança de IA**.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Linguagens**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -22,13 +22,6 @@ Atualmente, dedico meus estudos à **Cibersegurança Ofensiva** e à **Arquitetu
 **AI & Frameworks**  
 ![MCP Protocol](https://img.shields.io/badge/MCP-Framework-D05C43?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLM_Security-10A37F?style=flat-square&logo=openai&logoColor=white)
-
-## Estatísticas e Atividades
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lalabohm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalabohm&layout=compact&theme=radical" />
-</div>
 
 ## Vamos nos conectar?
 
