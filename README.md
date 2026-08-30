@@ -1,6 +1,6 @@
 <h2> Hi, my name is Larissa! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhdWU1d2g3eHluMG53MWM5bjlvdTZscmpnZjQyNDJ4azJ4NGllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uAiIvb5iBQxcQ0SYON/giphy.gif" width="50"></h2>
 
-I like to play **CTFs** and build projects related to **LLM security** and **adversarial machine learning**.
+I focus on **LLM security**, **agent architectures**, and **adversarial machine learning**.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -16,4 +16,5 @@ I like to play **CTFs** and build projects related to **LLM security** and **adv
 ![MCP Protocol](https://img.shields.io/badge/MCP-Framework-D05C43?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLM_Security-10A37F?style=flat-square&logo=openai&logoColor=white)
 
-- [LinkedIn](https://linkedin.com/in/larissa-böhm-77b538288/) - [E-mail](mailto:larissabohmaraujo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-böhm-77b538288/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissabohmaraujo@gmail.com)
