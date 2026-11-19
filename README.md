@@ -19,5 +19,5 @@ I focus on **LLM security**, **agent architectures**, and **adversarial machine 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-böhm-77b538288/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissabohmaraujo@gmail.com)
 
-**Portfolio**
-<a href="https://larissabohm.github.io/"><img src="card-nome-light.svg" alt="Larissa Böhm Araújo — Portfólio" height="60"></a>
+**Portfolio:**<br>
+<a href="https://larissabohm.github.io/"><img src="card-nome-light.svg" alt="Larissa Böhm Araújo — Portfolio" height="60"></a>
