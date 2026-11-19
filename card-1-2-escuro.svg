@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="44" viewBox="0 0 262 44" role="img" aria-label="Larissa Böhm Araújo">
+  <rect x="0.5" y="0.5" width="261" height="43" rx="4" fill="#16263A" stroke="#2C4260"/>
+  <g transform="translate(5.6 -0.4) scale(1.4)">
+    <path fill="#9DB8D9" d="M10.2 8H16.6V9.1Q15.2 9.2 15.2 10.4V22.6H19Q20.7 22.6 21.4 19.9H22.4L22 24H10.2V22.9Q11.6 22.8 11.6 21.6V10.4Q11.6 9.2 10.2 9.1Z"/>
+    <g fill="none" stroke="#9DB8D9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7.4 8.5Q5.4 8.5 5.4 10.5V14.4Q5.4 16 3.8 16Q5.4 16 5.4 17.6V21.5Q5.4 23.5 7.4 23.5"/>
+      <path d="M24.6 8.5Q26.6 8.5 26.6 10.5V14.4Q26.6 16 28.2 16Q26.6 16 26.6 17.6V21.5Q26.6 23.5 24.6 23.5"/>
+    </g>
+  </g>
+  <text x="56" y="28.5" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="700" fill="#DCE7F5">Larissa Böhm Araújo</text>
+</svg>
