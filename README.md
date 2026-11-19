@@ -20,4 +20,4 @@ I focus on **LLM security**, **agent architectures**, and **adversarial machine 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissabohmaraujo@gmail.com)
 
 **Academic Website:**<br>
-<a href="https://larissabohm.github.io/"><img src="card-nome-light.svg" alt="Larissa Böhm Araújo — Portfolio" height="60"></a>
+<a href="https://larissabohm.github.io/"><img src="card-1-2-escuro.svg" alt="Larissa Böhm Araújo — Portfolio" height="60"></a>
